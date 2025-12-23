@@ -1,0 +1,8 @@
+.gemini/
+gha-creds-*.json
+.venv*/
+__pycache__/
+*.log
+embeddings.csv
+embeddings_old.csv
+source/

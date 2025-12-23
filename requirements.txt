@@ -1,0 +1,7 @@
+torch
+torchvision
+pillow
+pandas
+tqdm
+transformers>=4.56.0
+accelerate
